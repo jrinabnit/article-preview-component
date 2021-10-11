@@ -3,5 +3,5 @@ module.exports = {
     siteUrl: "https://www.yourdomain.tld",
     title: "Article Preview Component",
   },
-  plugins: ["gatsby-plugin-theme-ui"],
+  plugins: ["gatsby-plugin-image", "gatsby-plugin-sharp", "gatsby-plugin-theme-ui"],
 };
